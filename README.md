@@ -22,6 +22,7 @@ Contributions most welcome.
 
 ## Misc/Other
 
+- [Algoritmos Públicos](https://www.algoritmospublicos.cl/) - Plataforma digital donde se recopila y muestra, de manera centralizada, la información sobre sistemas de soporte o toma de decisiones automatizadas que han sido realizados y/o están siendo utilizados por instituciones públicas en Chile. 
 
 ## Contributing
 
