@@ -29,7 +29,7 @@ Contributions most welcome.
 
 ## Food
 
-- [](https://lab.gob.cl/uploads/filer_public/65/eb/65ebdd72-7f95-487e-a985-75520df3ecac/5_dart.pdf) - 
+- [NotCo (Not Company)](https://notco.com/) - Empresa de tecnología alimentaria que produce alternativas de origen vegetal a los productos alimenticios de origen animal. Combina la ciencia y la tecnología de inteligencia artificial para crear fórmulas de alimentos sostenibles. Su algoritmo Giuseppe utiliza listas de ingredientes vegetales para encontrar las combinaciones ideales para recrear atributos alimentarios específicos. 
 
 
 ## Researchs Center
