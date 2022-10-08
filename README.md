@@ -49,6 +49,9 @@ Contributions most welcome.
 
 - [Algoritmos Públicos](https://www.algoritmospublicos.cl/) - Plataforma digital donde se recopila y muestra, de manera centralizada, la información sobre sistemas de soporte o toma de decisiones automatizadas que han sido realizados y/o están siendo utilizados por instituciones públicas en Chile. 
 
+- [Podcast - Chile IA](https://open.spotify.com/show/75vo1TsnhQBZAAswRDqjs3) - Podcast que trata el presente y el futuro de la Inteligencia Artificial en Chile. Cuenta con 4 capitulos. `2021`
+
+
 ## Contributing
 
 Contributing guidelines can be found in [CONTRIBUTING.md](.github/CONTRIBUTING.md).
