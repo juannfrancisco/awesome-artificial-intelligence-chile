@@ -36,6 +36,7 @@ Contributions most welcome.
 
 
 - [Cenia (Centro nacional de Inteligencia Artificial)](https://cenia.cl/) - Centro de investigación que busca impulsar transferencia tecnológica de vanguardia mediante la colaboración multidisciplinaria, el intercambio de ideas, el fomento del talento. Con el fin de convertirse en un pilar para el desarrollo de la IA en Chile y Latinoamérica, promoviendo un progreso tecnológico sustentable y ético, en armonía con el medio ambiente y el desarrollo humano.
+
 - [iHEALTH - Instituto Milenio en ingeniería e inteligencia artificial para la salud](https://i-health.cl/es/) - Su misión es desarrollar métodos innovadores que integren imágenes médicas, ingeniería e inteligencia artificial (IA) para mejorar las atenciones médicas basadas en imágenes con el objetivo, a largo plazo, de que ésta sea una alternativa más asequible y accesible a todos los chilenos. 
 
 ## National strategies & policies
