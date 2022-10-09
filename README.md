@@ -41,7 +41,7 @@ Contributions most welcome.
 
 ## National strategies & policies
 
-- [Política Nacional de Inteligencia Artificial](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/) - Política nacional que contiene los lineamientos estratégicos que debe seguir Chile en materia de Inteligencia Artificial durante los próximos 10 años con el objetivo de empoderar a las personas en el uso y desarrollo de herramientas de IA, y participar en el debate sobre sus consecuencias legales, éticas, sociales y económicas.
+- [Política Nacional de Inteligencia Artificial](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/) - Política nacional que contiene los lineamientos estratégicos que debe seguir Chile en materia de Inteligencia Artificial durante los próximos 10 años con el objetivo de empoderar a las personas en el uso y desarrollo de herramientas de IA, y participar en el debate sobre sus consecuencias legales, éticas, sociales y económicas. `2020`
 
 
 
@@ -50,6 +50,8 @@ Contributions most welcome.
 - [Algoritmos Públicos](https://www.algoritmospublicos.cl/) - Plataforma digital donde se recopila y muestra, de manera centralizada, la información sobre sistemas de soporte o toma de decisiones automatizadas que han sido realizados y/o están siendo utilizados por instituciones públicas en Chile. 
 
 - [Podcast - Chile IA](https://open.spotify.com/show/75vo1TsnhQBZAAswRDqjs3) - Podcast que trata el presente y el futuro de la Inteligencia Artificial en Chile. Cuenta con 4 capitulos. `2021`
+
+- [Youtube - Playlist de la Política de Inteligencia Artificial](https://www.youtube.com/playlist?list=PLjuV1s1B3P3GvlEK8hf6a4Uw7EgZVMw60) - Playlist de Youtube del Ministerio de Ciencias donde recopilan un conjunto de webinars donde se discuten los temas principales de la Política Nacional de Inteligencia Artificial. `2020`
 
 
 ## Contributing
