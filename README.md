@@ -18,18 +18,18 @@ Contributions most welcome.
 
 ## Data Brokers
 
-- [ALeRCE (Automatic Learning for the Rapid Classification of Events))](https://alerce.science/) - procesa el flujo de alertas de Zwicky Transient Facility (ZTF) y aspira a convertirse en un broker comunitario para el Observatorio Vera C. Rubin y su Legacy Survey of Space and Time (LSST), así como otros grandes telescopios de exploración etendue. Utiliza modelos de  aprendizaje automático e Infraestructura cloud para llevar productos y servicios procesados en tiempo real a la comunidad astronómica.
+- [ALeRCE (Automatic Learning for the Rapid Classification of Events))](https://alerce.science/) - procesa el flujo de alertas de Zwicky Transient Facility (ZTF) y aspira a convertirse en un broker comunitario para el Observatorio Vera C. Rubin y su Legacy Survey of Space and Time (LSST), así como otros grandes telescopios de exploración etendue. Utiliza modelos de  aprendizaje automático e Infraestructura cloud para llevar productos y servicios procesados en tiempo real a la comunidad astronómica. `Image Recognition` `2019`
 
 
 
 ## Health
 
-- [DART Inteligencia artificial para la prevención de la ceguera.](https://lab.gob.cl/uploads/filer_public/65/eb/65ebdd72-7f95-487e-a985-75520df3ecac/5_dart.pdf) - Permite diagnosticar oportunamente la principal causa de ceguera en Chile y el mundo, conocida como Retinopatía Diabética, mediante el reconocimiento de patrones en la retina con el uso de inteligencia computacional vía telemedicina. 
+- [DART Inteligencia artificial para la prevención de la ceguera.](https://lab.gob.cl/uploads/filer_public/65/eb/65ebdd72-7f95-487e-a985-75520df3ecac/5_dart.pdf) - Permite diagnosticar oportunamente la principal causa de ceguera en Chile y el mundo, conocida como Retinopatía Diabética, mediante el reconocimiento de patrones en la retina con el uso de inteligencia computacional vía telemedicina. `Image Recognition` `2015`
 
 
 ## Food
 
-- [NotCo (Not Company)](https://notco.com/) - Empresa de tecnología alimentaria que produce alternativas de origen vegetal a los productos alimenticios de origen animal. Combina la ciencia y la tecnología de inteligencia artificial para crear fórmulas de alimentos sostenibles. Su algoritmo Giuseppe utiliza listas de ingredientes vegetales para encontrar las combinaciones ideales para recrear atributos alimentarios específicos. 
+- [NotCo (Not Company)](https://notco.com/) - Empresa de tecnología alimentaria que produce alternativas de origen vegetal a los productos alimenticios de origen animal. Combina la ciencia y la tecnología de inteligencia artificial para crear fórmulas de alimentos sostenibles. Su algoritmo Giuseppe utiliza listas de ingredientes vegetales para encontrar las combinaciones ideales para recrear atributos alimentarios específicos. `2015`
 
 
 ## Researchs Center
