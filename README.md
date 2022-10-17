@@ -7,9 +7,10 @@ Contributions most welcome.
 
 - [Researchs Center](#researchs-center)
 - [Data Brokers](#data-brokers)
-- [Health](#health)
 - [Food](#food)
+- [Health](#health)
 - [National strategies & policies](#national-strategies--policies)
+- [Related laws](#related-laws)
 - [Misc/Other](#miscother)
 - [Contributing](#contributing)
 - [Authors](#authors)
@@ -23,16 +24,14 @@ Contributions most welcome.
 
 - [ALeRCE (Automatic Learning for the Rapid Classification of Events))](https://alerce.science/) - procesa el flujo de alertas de Zwicky Transient Facility (ZTF) y aspira a convertirse en un broker comunitario para el Observatorio Vera C. Rubin y su Legacy Survey of Space and Time (LSST), así como otros grandes telescopios de exploración etendue. Utiliza modelos de  aprendizaje automático e Infraestructura cloud para llevar productos y servicios procesados en tiempo real a la comunidad astronómica. `Machine Learning` `Image Recognition` `2019`
 
+## Food
+
+- [NotCo (Not Company)](https://notco.com/) - Empresa de tecnología alimentaria que produce alternativas de origen vegetal a los productos alimenticios de origen animal. Combina la ciencia y la tecnología de inteligencia artificial para crear fórmulas de alimentos sostenibles. Su algoritmo Giuseppe utiliza listas de ingredientes vegetales para encontrar las combinaciones ideales para recrear atributos alimentarios específicos. `2015`
 
 
 ## Health
 
 - [DART Inteligencia artificial para la prevención de la ceguera.](https://lab.gob.cl/uploads/filer_public/65/eb/65ebdd72-7f95-487e-a985-75520df3ecac/5_dart.pdf) - Permite diagnosticar oportunamente la principal causa de ceguera en Chile y el mundo, conocida como Retinopatía Diabética, mediante el reconocimiento de patrones en la retina con el uso de inteligencia computacional vía telemedicina. `Image Recognition` `2015`
-
-
-## Food
-
-- [NotCo (Not Company)](https://notco.com/) - Empresa de tecnología alimentaria que produce alternativas de origen vegetal a los productos alimenticios de origen animal. Combina la ciencia y la tecnología de inteligencia artificial para crear fórmulas de alimentos sostenibles. Su algoritmo Giuseppe utiliza listas de ingredientes vegetales para encontrar las combinaciones ideales para recrear atributos alimentarios específicos. `2015`
 
 
 ## Researchs Center
@@ -47,8 +46,21 @@ Contributions most welcome.
 - [Política Nacional de Inteligencia Artificial](https://minciencia.gob.cl/areas-de-trabajo/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/) - Política nacional que contiene los lineamientos estratégicos que debe seguir Chile en materia de Inteligencia Artificial durante los próximos 10 años con el objetivo de empoderar a las personas en el uso y desarrollo de herramientas de IA, y participar en el debate sobre sus consecuencias legales, éticas, sociales y económicas. `2020`
 
 
+## Related laws
+
+- [Ley N° 19.628, sobre protección de la vida privada](https://www.bcn.cl/leychile/navegar?idLey=19628) - c. `2020`
+
+- [Ley N° 20.575 establece el principio de finalidad en el tratamiento de datos personales](https://www.bcn.cl/leychile/navegar?idLey=20575) - c. `2012`
+
+
+
+
+
+
 
 ## Misc/Other
+
+- [Guía Formulación ética de proyectos de ciencia de datos](https://goblab.uai.cl/guia-formulacion-etica-de-proyectos-de-ciencia-de-datos/) - Esta guía busca ser un valioso apoyo para planificar, formular y desarrollar sistemas de toma de decisión o de soporte a la toma de decisión basados en inteligencia artificial o modelos algorítmicos en el sector público, evitando sesgos de discriminación, falta de transparencia o mal uso de datos personales, entre otros potenciales problemas.`2022`
 
 - [Algoritmos Públicos](https://www.algoritmospublicos.cl/) - Plataforma digital donde se recopila y muestra, de manera centralizada, la información sobre sistemas de soporte o toma de decisiones automatizadas que han sido realizados y/o están siendo utilizados por instituciones públicas en Chile. 
 
