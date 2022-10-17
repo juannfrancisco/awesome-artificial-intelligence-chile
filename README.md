@@ -48,14 +48,7 @@ Contributions most welcome.
 
 ## Related laws
 
-- [Ley N° 19.628, sobre protección de la vida privada](https://www.bcn.cl/leychile/navegar?idLey=19628) - c. `2020`
-
-- [Ley N° 20.575 establece el principio de finalidad en el tratamiento de datos personales](https://www.bcn.cl/leychile/navegar?idLey=20575) - c. `2012`
-
-
-
-
-
+- [Ley N° 19.628, sobre protección de la vida privada](https://www.bcn.cl/leychile/navegar?idLey=19628) - Regula el tratamiento de los datos de carácter personal, en registros o bancos de datos, por organismos públicos o privados. `2020`
 
 
 ## Misc/Other
