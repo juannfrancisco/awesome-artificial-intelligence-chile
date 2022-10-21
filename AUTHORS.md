@@ -1,3 +1,4 @@
 |Commits | Author |
 | :---: | --- |
-|2|Juan Francisco <juan.maldonado.leon@gmail.com>|
+|19|Juan Francisco <juan.maldonado.leon@gmail.com>|
+|1|David Maldonado <maldonadoleon@gmail.com>|
