@@ -27,10 +27,10 @@ Contributions most welcome.
 
 ## Data repository
 
--[Datos.gob](https://datos.gob.cl/) - Repositorio de datos abiertos centralizado del Estado. En este portal encontrarás datos y estadísticas del sector público, para distintos fines, como aplicaciones, visualizaciones, investigación, etc. `2019`
+- [Datos.gob](https://datos.gob.cl/) - Repositorio de datos abiertos centralizado del Estado. En este portal encontrarás datos y estadísticas del sector público, para distintos fines, como aplicaciones, visualizaciones, investigación, etc. `2019`
 
 
--[Data Observatory](https://www.dataobservatory.net//) - Data Observatory (DO) es una colaboración público-privada-academia, sin fines de lucro, liderada por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación y el Ministerio de Economía, Fomento y Turismo, creada junto con Amazon Web Services (AWS) y la Universidad Adolfo Ibáñez (UAI). Busca democratizar el acceso abierto a los datos y conocimiento que se generan a partir de estas áreas de la investigación. Para que estos datos estén a disposición desde cualquier lugar, se esta trabajando con tecnología en la nube. `2019`
+- [Data Observatory](https://www.dataobservatory.net//) - Data Observatory (DO) es una colaboración público-privada-academia, sin fines de lucro, liderada por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación y el Ministerio de Economía, Fomento y Turismo, creada junto con Amazon Web Services (AWS) y la Universidad Adolfo Ibáñez (UAI). Busca democratizar el acceso abierto a los datos y conocimiento que se generan a partir de estas áreas de la investigación. Para que estos datos estén a disposición desde cualquier lugar, se esta trabajando con tecnología en la nube. `2019`
 
 ## Food
 
